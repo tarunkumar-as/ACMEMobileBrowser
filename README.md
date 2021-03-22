@@ -24,8 +24,9 @@ The application can run on the simulator the usual way by selecting the device o
 - The entire application is written in Swift and makes use UIKit and WebKit. This can however be easily migrated to SwiftUI by changing the UI components to the latest framework.
 
 ## ScreenShot
-/Users/tarun/Desktop/Simulator Screen Shot - iPhone 12 Pro - 2021-03-22 at 19.45.43.png
-/Users/tarun/Desktop/Simulator Screen Shot - iPhone 12 Pro - 2021-03-22 at 19.45.57.png
+![Simulator Screen Shot - iPhone 12 Pro - 2021-03-22 at 19 45 43](https://user-images.githubusercontent.com/54487667/112072159-a01b1380-8b47-11eb-8a34-9bd64363458e.png)
+
+![Simulator Screen Shot - iPhone 12 Pro - 2021-03-22 at 19 45 57](https://user-images.githubusercontent.com/54487667/112072161-a14c4080-8b47-11eb-9461-313c721abf8f.png)
 
 ## Future Work
 - A few other feature that can be implemented is making the app use a database to keep track of the user activity. By implementing feature, the app can load the sessions or last viewed webpages and tabs when the app is closed and launched again.
